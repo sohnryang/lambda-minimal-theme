@@ -11,3 +11,9 @@ The process is quite straightforward. Just download the file `lambda-minimal.zsh
 ```
 curl 'https://raw.githubusercontent.com/sohnryang/lambda-minimal-theme/master/lambda-minimal.zsh-theme' -o $ZSH_CUSTOM/themes/lambda-minimal.zsh-theme
 ```
+
+## Roadmap
+- [ ] Add git root indicator when in git-managed directory.
+- [ ] Add python version indicator when virtualenv is enabled.
+- [ ] Add push/pull indicator like [pure theme](https://github.com/sindresorhus/pure).
+- [ ] Add nvm support.
