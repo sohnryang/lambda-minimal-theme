@@ -1,4 +1,5 @@
 # lambda-minimal-theme
+![GitHub](https://img.shields.io/github/license/sohnryang/lambda-minimal-theme)
 [![Mentioned in Awesome Zsh Plugins](https://awesome.re/mentioned-badge.svg)](https://github.com/unixorn/awesome-zsh-plugins)
 
 A simple zsh prompt theme based on lambda. Supports `git` and `virtualenv`.
