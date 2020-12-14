@@ -1,6 +1,7 @@
 # lambda-minimal-theme
 ![GitHub](https://img.shields.io/github/license/sohnryang/lambda-minimal-theme)
 [![Mentioned in Awesome Zsh Plugins](https://awesome.re/mentioned-badge.svg)](https://github.com/unixorn/awesome-zsh-plugins)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsohnryang%2Flambda-minimal-theme.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsohnryang%2Flambda-minimal-theme?ref=badge_shield)
 
 A simple zsh prompt theme based on lambda. Supports `git` and `virtualenv`.
 
@@ -20,3 +21,7 @@ curl 'https://raw.githubusercontent.com/sohnryang/lambda-minimal-theme/master/la
 - [ ] Add python version indicator when virtualenv is enabled.
 - [ ] Add push/pull indicator like [pure theme](https://github.com/sindresorhus/pure).
 - [ ] Add nvm support.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsohnryang%2Flambda-minimal-theme.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsohnryang%2Flambda-minimal-theme?ref=badge_large)
